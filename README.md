@@ -17,5 +17,5 @@ I'm a **Software Test Engineer** from Egypt 🇪🇬 passionate about building r
 
 ## 📫 Connect with Me
 
-- LinkedIn: https://linkedin.com/in/YOUR_PROFILE
-- Email: YOUR_EMAIL
+- LinkedIn: http://www.linkedin.com/in/omar-gamal-b385231b2
+- Email: omargamal3092000@gmail.com
