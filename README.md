@@ -1,28 +1,21 @@
-### Hi there 👋
+# Hi there 👋, I'm Omar Gamal Rezk
 
-I'm Omar Gamall — software engineer and open-source contributor building web apps, APIs, and developer tools. I focus on creating simple, reliable systems and improving developer experience.
+I'm a **Software Test Engineer** from Egypt 🇪🇬 passionate about building reliable test automation frameworks and improving software quality.
 
-- 🔭 I’m currently working on: improving web performance and building scalable APIs
-- 🌱 I’m currently learning: distributed systems, observability, and Rust
-- 👯 I’m looking to collaborate on: frontend tooling, developer experience, and cloud-native projects
-- 💬 Ask me about: JavaScript, TypeScript, Node.js, React, Docker, and AWS
-- 📫 How to reach me: open a GitHub issue or message me here on GitHub
-- ⚡ Fun fact: I love optimizing slow pages and debugging strange production issues
+## 👨‍💻 About Me
 
+- 💼 Software Test Engineer at ComRec Solutions
+- 🎓 Software Testing & QA Trainee at ITI
+- 🤖 Interested in Test Automation, API Testing, Performance Testing, and CI/CD
+- 💻 Working with Java, TypeScript, Selenium, Playwright, REST Assured, and Postman
+- 📚 Always learning and improving my software engineering skills
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-- Languages: JavaScript, TypeScript, Python, Go
-- Frameworks & tools: React, Node.js, Express, Docker, Kubernetes, Terraform
+`Java` `TypeScript` `Selenium` `Playwright` `REST Assured` `TestNG`
+`Postman` `JMeter` `SQL Server` `Git` `GitHub Actions` `Jenkins`
 
+## 📫 Connect with Me
 
-## Featured
-
-Explore my repositories on my profile — I often pin the projects I'm most proud of.
-
-
-## GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=OmarGamall&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarGamall&layout=compact&theme=default)
+- LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+- Email: YOUR_EMAIL
